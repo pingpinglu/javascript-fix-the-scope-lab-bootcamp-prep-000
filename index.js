@@ -25,6 +25,8 @@ function add2(n) {
   
 }
 
+
+//Q3
 var funkyFunction = function() {
   return function() {
     return "FUNKY!"
