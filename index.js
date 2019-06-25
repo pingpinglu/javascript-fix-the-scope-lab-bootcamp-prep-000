@@ -13,9 +13,9 @@ function yourAnimal() {
 }
 
 
-
+var n = 912
 function add2(n) {
-  var n = 912
+  
   const two = 2
   return n + two
 
