@@ -12,7 +12,7 @@ function yourAnimal() {
   return animal
 }
 
-
+//Q2
 var n = 912
 function add2(n) {
   
