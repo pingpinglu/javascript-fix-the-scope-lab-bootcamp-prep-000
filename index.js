@@ -1,8 +1,10 @@
+//Q1
 var animal = 'dog'
 
 function myAnimal() {
   return animal
 }
+
 
 function yourAnimal() {
   var animal = 'cat'
@@ -16,8 +18,9 @@ function yourAnimal() {
 var n = 912
 function add2(n) {
   
-  const two = 2
+ 
   return n + two
+   const two = 2
 
   // Feel free to move things around!
   
